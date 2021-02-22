@@ -20,10 +20,13 @@ Simulacion ejercicio 60 verificacion de magnitud de la corriente
 
 ![corriente](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/60%20circuito.PNG)
 
+**6.MANUAL DE USUARIO**
 
-**6.CONCLUSIONES**
+**7.CONCLUSIONES**
 
-**7.BIBLIOGRAFÍA**
+**8.BILIOGRAFÍA**
 
 Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
-**8.ANEXOS**
+
+**9.ANEXOS**
+
