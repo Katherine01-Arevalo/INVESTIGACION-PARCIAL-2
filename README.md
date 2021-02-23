@@ -56,6 +56,8 @@ Simulacion ejercicio 60 verificacion de magnitud de la corriente
 
 En fin para analizar un circuito de corriente alterna se tiene presente   los métodos aprendidos anteriormente en corriente directa  para llegar a solucionar un circuito y  obtener un análisis eficiente se debe tener en cuenta como generar impedancias, conductancias y sobre todo tener entendido que en el circuito se llega a estudiar la resistencias complejas en si se aplica el mismo método ya sea divisor de voltaje  ley de Ohm pero teniendo en cuenta que ya se trabaja con magnitud y ángulo de fase ya sea para obtener voltajes ,corrientes , potencia , los circuitos en el caso de obtener la potencia se analiza por separado   los elementos  ya rea la resistencia o los capacitores y finalmente obteniendo la corriente total  en el circuito a analizar se representa de manera polar.
 
+Para los circuitos RC en paralelo siempre es necesario calcular primero las características que permiten el flujo de corriente antes de las que se oponen a dicho flujo. Esto se debe a que la expresión de la impedancia, la cual indica la oposición, está en función de las que si permiten el flujo. Y este se puede relacionar con los circuitos en DC, donde las resistencias en paralelo actúan como divisores de corriente. 
+
 **8.BIBLIOGRAFÍA**
 
 Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
