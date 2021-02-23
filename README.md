@@ -5,6 +5,8 @@
 
 ![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Cicuito_serie.jpg)
 
+![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Circuito_serie2.jpg)
+
 ![TEMA](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/fallas.png)
 
 **3.DIAGRAMAS**
