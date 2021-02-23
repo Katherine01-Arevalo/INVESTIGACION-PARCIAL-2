@@ -3,6 +3,8 @@
 
 **2.MARCO TEÓRICO**
 
+![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Cicuito_serie.jpg)
+
 ![TEMA](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/fallas.png)
 
 **3.DIAGRAMAS**
