@@ -17,13 +17,13 @@ Específicos:
 
 **2.MARCO TEÓRICO**
 
-![RC_PARALELO](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/RC_PARALELO.png)
-
-![RC_SERIE_PARALELO](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/RC_SERIE_PARALELO.png)
-
 ![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Cicuito_serie.jpg)
 
 ![.](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/Mapa_Circuito_serie2.jpg)
+
+![RC_PARALELO](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/RC_PARALELO.png)
+
+![RC_SERIE_PARALELO](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/RC_SERIE_PARALELO.png)
 
 ![TEMA](https://github.com/Katherine01-Arevalo/INVESTIGACION-PARCIAL-2/blob/main/img/fallas.png)
 
