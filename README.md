@@ -44,6 +44,8 @@ Diagrama ejercicio 60
 
 **4.EXPLICACIÓN**
 
+Si lo que se desea es calcular el desplazamiento de fase entre el voltaje de entrada y el de salida en un circuito de retraso. Primero hay que encontrar la reactancia capacitiva, la cual como cantidad fasorial va a estar expresada como complejo. Con este valor y el de la resistencia podremos hacer uso de la ley de ohm para encontrar la magnitud del voltaje de salida. Para determinar el ángulo es necesario hacer uso de la expresión -arctan (Xc/R) y de esa forma obtendremos el voltaje de salida expresado de forma polar. De lo cual el ángulo representa el retraso, porque resulta negativo, del voltaje de salida.
+
 **5.APORTACIONES**
 
 Simulacion ejercicio 60 verificacion de magnitud de la corriente 
